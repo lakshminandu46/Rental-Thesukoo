@@ -1,0 +1,17 @@
+.car{
+    background-image:url("/bike.jpeg") ;
+    background-size:1200px 700px;
+    background-repeat: no-repeat;
+
+
+}
+.container-fluid{
+    height: 800px;
+    background-image:url("/bike.jpeg") ;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
